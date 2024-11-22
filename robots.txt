@@ -1,0 +1,10 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://tonjadelossantos673.github.io/tonjadelossantos673_github_io_zp531_11.txt
+Sitemap: https://tonjadelossantos673.github.io/tonjadelossantos673_github_io_zp531_16.txt
+Sitemap: https://tonjadelossantos673.github.io/tonjadelossantos673_github_io_zp531_20.txt
+Sitemap: https://tonjadelossantos673.github.io/tonjadelossantos673_github_io_zp531_25.txt
+Sitemap: https://tonjadelossantos673.github.io/tonjadelossantos673_github_io_zp531_3.txt
+Sitemap: https://tonjadelossantos673.github.io/tonjadelossantos673_github_io_zp531_4.txt
+Sitemap: https://tonjadelossantos673.github.io/tonjadelossantos673_github_io_zp531_9.txt
